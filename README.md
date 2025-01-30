@@ -2,3 +2,6 @@
 
 - added the folder structure
 - added the readme file
+- created requirements.txt file
+- created setup.py file
+- 
