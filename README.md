@@ -6,3 +6,16 @@
 - created setup.py file
 - create and annotate data
 - perform google colab notebook experiments
+- create other modules
+
+```
+Errors I got: 
+1. from from_root import from_root
+ModuleNotFoundError: No module named 'from_root'
+
+FIX: Installed from-root
+
+2. AttributeError: module 'datetime' has no attribute 'now'
+
+FIX: import datetime class directly from the module datetime
+```

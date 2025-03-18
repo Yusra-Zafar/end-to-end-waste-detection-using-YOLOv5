@@ -4,6 +4,7 @@ notebook==7.0.0a7
 gdown # for keeping data in google drive
 flask-cors 
 flask  # for web app
+from-root
 
 
 # YOLOv5 requirements
