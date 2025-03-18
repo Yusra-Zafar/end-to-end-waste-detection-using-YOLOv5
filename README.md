@@ -4,4 +4,5 @@
 - added the readme file
 - created requirements.txt file
 - created setup.py file
-- 
+- create and annotate data
+- perform google colab notebook experiments
