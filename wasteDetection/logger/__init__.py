@@ -1,3 +1,5 @@
+########## maintains the logs of all the runs for easier tracking of code ########
+
 import logging
 import os
 from datetime import datetime

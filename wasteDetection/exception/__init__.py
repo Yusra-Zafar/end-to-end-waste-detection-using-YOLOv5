@@ -1,3 +1,5 @@
+####### defining custom exceptions for easy debugging with detailed error info ###########
+
 import sys
 
 def error_message_detail(error, error_detail: sys):
